@@ -1,7 +1,7 @@
 # parameters
 ARG REPO_NAME="duckiebot-lanefollower"
-ARG DESCRIPTION="Dockerimage for lanefollowing with sparkfun board"
-ARG MAINTAINER="Raivo Sulla (raivo.sylla@gmail.com)"
+ARG DESCRIPTION="Lanefollowing dickerimage for sparkfun board"
+ARG MAINTAINER="<YOUR_FULL_NAME> (<YOUR_EMAIL"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 ARG ICON="cube"
 
